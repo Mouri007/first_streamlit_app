@@ -1,3 +1,3 @@
 import streamlit
-Breakfast Menu
-('Bread', 'Egg', 'Milk')
+(Breakfast Menu
+('Bread', 'Egg', 'Milk'))
