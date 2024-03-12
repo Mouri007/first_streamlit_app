@@ -1,4 +1,4 @@
 import streamlit
-streamlit_title('My Parents New Healthy Diner')
-streamlit_heading('Breakfast Menu')
-streamlit_text('Bread', 'Egg', 'Milk')
+streamlit.title('My Parents New Healthy Diner')
+streamlit.heading('Breakfast Menu')
+streamlit.text('Bread', 'Egg', 'Milk')
